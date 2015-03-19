@@ -1,6 +1,3 @@
 mytestffff test me why i love move
-<<<<<<< HEAD
 ni jiu shi ge laji ffff??
-=======
 ni jiu shi ge laji haha
->>>>>>> 315633820-master
